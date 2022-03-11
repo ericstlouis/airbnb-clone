@@ -2,7 +2,7 @@ import HeroImg from "../images/Hero-img.png";
 
 const Hero = () => {
   return (
-    <div>
+    <div className="">
       <div className="w-full flex justify-center mt-10">
         <img
           className=""
